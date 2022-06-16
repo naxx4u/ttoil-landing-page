@@ -50,7 +50,8 @@ nav li:hover{font-weight: bolder;font-size: 17px;}
 }
 
 #lang-span{
-  color: rgba(193, 132, 77, 1)
+  color: rgba(193, 132, 77, 1);
+  text-align: right;
 }
 
 
@@ -58,7 +59,7 @@ nav li:hover{font-weight: bolder;font-size: 17px;}
   display: none;
   position: absolute;
   top: 80px;
-  right: 305px;
+  right: 300px;
   font-size: 16px;
   font-weight: 500;
   background-color: rgba(255, 255, 255, 0.9);
